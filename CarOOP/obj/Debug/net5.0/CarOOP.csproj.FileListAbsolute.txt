@@ -1,0 +1,16 @@
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\CarOOP.exe
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\CarOOP.deps.json
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\CarOOP.runtimeconfig.json
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\CarOOP.runtimeconfig.dev.json
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\CarOOP.dll
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\ref\CarOOP.dll
+D:\pbo\pbo\CarOOP\bin\Debug\net5.0\CarOOP.pdb
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.csprojAssemblyReference.cache
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.AssemblyInfoInputs.cache
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.AssemblyInfo.cs
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.csproj.CoreCompileInputs.cache
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.dll
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\ref\CarOOP.dll
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.pdb
+D:\pbo\pbo\CarOOP\obj\Debug\net5.0\CarOOP.genruntimeconfig.cache
